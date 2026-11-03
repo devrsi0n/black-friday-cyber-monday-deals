@@ -150,6 +150,7 @@ We'd greatly appreciate if you could:
 | [Semantic Pen](https://www.semanticpen.com/) | AI Content Writer - Generate high-quality content with AI | **20BF2025** - 20% OFF | Ends Dec 31 | ✅ |
 | [ConsoleX AI](https://consolex.ai) | The ultimate AI studio for creators: all frontier models and creative tools in one place | **CXBLACK2025** - 50% off | Ends Dec 3 | ✅ |
 | [Summate](https://summate.io) | AI-powered digest that turns newsletters, YouTube, and 50+ sources into personalized summaries. 2 hours → 10 minutes. | **SUMMATEBF25** - 50% off ($10/mo annual, $15/mo monthly) | Ends Dec 5 | ✅ |
+| [Layerwise](https://layerwise.app/pricing) | Desktop AI app builder with local source files, live previews and publishing; available on macOS, Windows and Linux. | **20% OFF for 12 months** on all plans, monthly or annual, with code **BLACKFRIDAY2026** | Ends Dec 2, 2026 | ✅ |
 
 ## Design kits
 
